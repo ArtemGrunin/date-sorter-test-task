@@ -1,4 +1,4 @@
-Date Sorter Test Task
+# Date Sorter Test Task
 
 This test project provides a Java implementation for sorting a collection of dates based on specific sorting criteria.
 
